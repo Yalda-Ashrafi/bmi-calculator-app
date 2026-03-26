@@ -1,6 +1,6 @@
  BMI Calculator App
 
-A simple Flutter application that calculates Body Mass Index (BMI) based on user input.
+A simple Flutter application that calculates Body Mass Index (BMI) based on user selections.
 
 Installation & Run
 
